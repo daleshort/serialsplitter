@@ -1,0 +1,5 @@
+baud: 9600
+listener: "COM6" #cnc com port
+forwarder: "COM8" #drip feed com port
+tport: "COM10" #COM port to send sniffer traffic into (browser)
+buffer: 100
